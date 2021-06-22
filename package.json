@@ -1,0 +1,21 @@
+{
+    "name": "monokai-pro-new-kc",
+    "displayName": "Monokai Pro New KC",
+    "description": "Monokai Pro New but darker - by @kvncnls",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.57.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Monokai Pro New KC",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Monokai Pro New KC-color-theme.json"
+            }
+        ]
+    }
+}
