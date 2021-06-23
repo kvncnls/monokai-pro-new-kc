@@ -2,11 +2,11 @@
     "name": "monokai-pro-new-kc",
     "displayName": "Monokai Pro New KC",
     "description": "Monokai Pro New but darker - by @kvncnls",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "publisher": "kvncnls",
     "repository": {
         "type": "git",
-        "url": "https://github.com/kvncnls/monokai-pro-kvncnls"
+        "url": "https://github.com/kvncnls/monokai-pro-new-kc"
     },
     "keywords": [
         "Monokai Pro",
