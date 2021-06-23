@@ -47,6 +47,13 @@
                 "uiTheme": "vs-dark",
                 "path": "./themes/Monokai Pro New KC-color-theme.json"
             }
+        ],
+        "iconThemes": [
+            {
+                "id": "monokai-pro-new-kc",
+                "label": "Monokai Pro New KC",
+                "path": "./icons/icon.png"
+            }
         ]
     }
 }
