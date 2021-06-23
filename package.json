@@ -3,6 +3,37 @@
     "displayName": "Monokai Pro New KC",
     "description": "Monokai Pro New but darker - by @kvncnls",
     "version": "0.0.1",
+    "publisher": "kvncnls",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/kvncnls/monokai-pro-kvncnls"
+    },
+    "keywords": [
+        "Monokai Pro",
+        "monokai pro",
+        "theme",
+        "dark theme",
+        "Monokai Pro New",
+        "monokai pro new",
+        "monokai pro",
+        "monokai",
+        "monokaipro",
+        "monokaipronew",
+        "monokai pro theme",
+        "monokai pro theme new",
+        "monokai theme",
+        "monokai theme new",
+        "monokaiprotheme",
+        "Monokai",
+        "Sublime Exact Theme",
+        "EmilijanMB",
+        "Monokai Pro New KC",
+        "Monokai Pro KC",
+        "kvncnls",
+        "Kevin Canlas",
+        "Kevin",
+        "Canlas"
+    ],
     "engines": {
         "vscode": "^1.57.0"
     },
